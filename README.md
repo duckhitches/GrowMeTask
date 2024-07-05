@@ -1,6 +1,7 @@
 
-![Screenshot (192)](https://github.com/duckhitches/GrowMeTask/assets/112294700/23557a9e-32b9-49ae-ab13-ba9ba7fd68a4)
-![Screenshot (208)](https://github.com/duckhitches/GrowMeTask/assets/112294700/619f3b2c-6d56-488e-a94a-47a81f627d1f)![Screenshot (191)](https://github.com/duckhitches/GrowMeTask/assets/112294700/15d0e921-b950-49b6-bdb2-8605a552423c)
+![Screenshot (211)](https://github.com/duckhitches/GrowMeTask/assets/112294700/c4085e9f-3252-4878-ad89-6b0fcb83b3e1)
+![Screenshot (212)](https://github.com/duckhitches/GrowMeTask/assets/112294700/dc13add5-e908-48be-b99d-924c5de22cfe)
+![Screenshot (213)](https://github.com/duckhitches/GrowMeTask/assets/112294700/a26b8340-3e09-4659-9e79-bf863f40a751)
 
 
 The above warning is due to high data which requires DataGridPro or Premium at requires liciene to buy (Datagrid works fine for small quantity of data and displays the data for short time).
@@ -8,8 +9,11 @@ Rest all working fine and in few cases I used Yarn since it consists all the dep
 This was the task given :-https://docs.google.com/document/d/1ZGNeBdGlys41g5pRkngxQx_Rk77jLhlyHcxhww5viu0/edit
 
 
+This is my git hub link of my portfolio :- 
 
-This netlify deployed website link :- https://growtask1.netlify.app
+
+This is the netlify deployed website link :- https://growtask1.netlify.app
+This is my netlify account link :- https://app.netlify.com/teams/duckhitches/overview
 
 
 
