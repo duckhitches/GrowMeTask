@@ -9,7 +9,7 @@ Rest all working fine and in few cases I used Yarn since it consists all the dep
 This was the task given :-https://docs.google.com/document/d/1ZGNeBdGlys41g5pRkngxQx_Rk77jLhlyHcxhww5viu0/edit
 
 
-This is my git hub link of my portfolio :- 
+This is my git hub link of my portfolio :- https://github.com/duckhitches
 
 
 This is the netlify deployed website link :- https://growtask1.netlify.app
